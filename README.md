@@ -1,76 +1,83 @@
-<h1 align="center">Olá, eu sou o Luiz Henrique 👋</h1>
+# Olá 👋, eu sou Luiz Henrique
 
-<p align="center">
-  <strong>Desenvolvedor Front-end</strong> • Sistemas de Informação - UNIMONTES
-</p>
+ 🚀 Front-end Developer | React & JavaScript
 
-<p align="center">
-  Construindo aplicações web modernas, intuitivas e bem estruturadas.
-</p>
+Sou estudante de Sistemas de Informação na Unimontes e desenvolvedor Front-end em formação.
 
----
+Atualmente estudo JavaScript, React e Node.js, desenvolvendo projetos para aprimorar minhas habilidades e construir aplicações web modernas, responsivas e de alta qualidade.
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de Sistemas de Informação na Universidade Estadual de Montes Claros (UNIMONTES).
-
-Tenho interesse em desenvolvimento web e gosto de construir aplicações com foco em organização, boas práticas e experiência do usuário.
-
-Meu objetivo é iniciar minha carreira como Desenvolvedor Front-end e, futuramente, atuar como Desenvolvedor Full Stack.
+Meu objetivo é evoluir como Desenvolvedor Full Stack e criar soluções que gerem impacto real para usuários e empresas.
 
 ---
 
-## 🚀 Tecnologias
+## 🌐 Onde me encontrar
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luizzhcs">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/luiz-henrique-2763aa30b">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:hcsluiz23@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 O que eu faço
+
+💻 Desenvolvimento de interfaces web modernas e responsivas  
+⚛️ Criação de aplicações com React e JavaScript  
+🎨 Desenvolvimento com HTML, CSS  
+🗄️ Modelagem e consultas em bancos de dados SQL  
+📚 Estudo de boas práticas, código limpo e arquitetura de software  
+🚀 Desenvolvimento de projetos para evolução como Full Stack
+
+---
+
+## 🛠️ Tecnologias
 
 ### Front-end
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-</p>
 
----
+### 🧰 Outras Tecnologias e Ferramentas
 
-## 📂 Projetos em destaque
-
-🚧 Em breve...
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📈 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luizzhcs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzhcs&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luizzhcs&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzhcs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Filosofia
 
-Busco uma oportunidade de estágio em Desenvolvimento Front-end para contribuir com projetos reais, aplicar meus conhecimentos e continuar evoluindo profissionalmente.
+> *"Acredito que a tecnologia tem o poder de transformar ideias em soluções que facilitam a vida das pessoas. Estou sempre buscando aprender, evoluir e construir projetos cada vez melhores."*
 
 ---
 
-## 📫 Contato
-
-<p>
-  <a href="mailto:hcsluiz23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/luiz-henrique-2763aa30b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
