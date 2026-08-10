@@ -1,8 +1,8 @@
 # Olá 👋, eu sou Luiz Henrique
 
- 🚀 Front-end Developer | React & JavaScript
+ 🚀 software developer | React & JavaScript
 
-Sou estudante de Sistemas de Informação na Unimontes e desenvolvedor Front-end em formação.
+Sou estudante de Sistemas de Informação na Unimontes e desenvolvedor de software em formação.
 
 Atualmente estudo JavaScript, React e Node.js, desenvolvendo projetos para aprimorar minhas habilidades e construir aplicações web modernas, responsivas e de alta qualidade.
 
