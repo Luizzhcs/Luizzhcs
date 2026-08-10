@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Luiz Henrique
 
- 🚀 software developer | React & JavaScript
+ 🚀 Software Developer | React & JavaScript
 
 Sou estudante de Sistemas de Informação na Unimontes e desenvolvedor de software em formação.
 
