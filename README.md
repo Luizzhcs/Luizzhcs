@@ -1,12 +1,12 @@
 # Olá 👋, eu sou Luiz Henrique
 
- 🚀 Software Developer | React & JavaScript
+🐍 **Software Developer | Python & FastAPI**
 
-Sou estudante de Sistemas de Informação na Unimontes e desenvolvedor de software em formação.
+Sou estudante de Sistemas de Informação na Unimontes, com foco em desenvolvimento backend e construção de APIs.
 
-Atualmente estudo JavaScript, React e Node.js, desenvolvendo projetos para aprimorar minhas habilidades e construir aplicações web modernas, responsivas e de alta qualidade.
+Atualmente, estou aprofundando meus conhecimentos em Python e FastAPI, explorando a criação de APIs REST, organização de aplicações e integração com bancos de dados relacionais.
 
-Meu objetivo é evoluir como Desenvolvedor Full Stack e criar soluções que gerem impacto real para usuários e empresas.
+Meu objetivo é evoluir como desenvolvedor backend, construir aplicações robustas e desenvolver soluções que atendam às necessidades reais de usuários e empresas.
 
 ---
 
@@ -20,7 +20,7 @@ Meu objetivo é evoluir como Desenvolvedor Full Stack e criar soluções que ger
       </a>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/luiz-henrique-2763aa30b">
+      <a href="https://www.linkedin.com/in/luizhenrique-developer/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
@@ -34,35 +34,37 @@ Meu objetivo é evoluir como Desenvolvedor Full Stack e criar soluções que ger
 
 ---
 
-## 🧠 O que eu faço
+## 🧠 Áreas de interesse
 
-💻 Desenvolvimento de interfaces web modernas e responsivas  
-⚛️ Criação de aplicações com React e JavaScript  
-🎨 Desenvolvimento com HTML, CSS  
-🗄️ Modelagem e consultas em bancos de dados SQL  
-📚 Estudo de boas práticas, código limpo e arquitetura de software  
-🚀 Desenvolvimento de projetos para evolução como Full Stack
+🐍 Desenvolvimento backend com Python  
+⚡ Criação de APIs REST com FastAPI  
+🔌 Integração entre aplicações e serviços  
+🗄️ Bancos de dados relacionais e SQL  
+🏗️ Organização e arquitetura de aplicações  
+🚀 Desenvolvimento de sistemas e soluções backend  
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Front-end
+### 🐍 Linguagem
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### ⚡ Framework
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🧰 Outras Tecnologias e Ferramentas
+### 🗄️ Bancos de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -77,7 +79,4 @@ Meu objetivo é evoluir como Desenvolvedor Full Stack e criar soluções que ger
 
 ## 🚀 Filosofia
 
-> *"Acredito que a tecnologia tem o poder de transformar ideias em soluções que facilitam a vida das pessoas. Estou sempre buscando aprender, evoluir e construir projetos cada vez melhores."*
-
----
-
+> Acredito que boas soluções de software começam com a compreensão dos problemas e a construção de sistemas eficientes, organizados e confiáveis. Busco evoluir continuamente e transformar conhecimento em aplicações úteis.
